@@ -1,0 +1,11 @@
+.quiz{
+    max-width: 50rem;
+    margin: 0 auto;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 2px 8px 10px rgba(1,15,30,0.6);
+    background:linear-gradient(180deg,#3e2a60 0%,#321061 100%);
+    padding: 2rem;
+}
+
+  
